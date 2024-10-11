@@ -29,3 +29,4 @@
 -		Cloud- Azure AWS Google Cloud
 -	CI/CD(Azure Pipelines-Mid) Jenkins(Senior)
 -	.NET Libraries- Polly MedianR Refir YARP Swashbuckle
+https://vani-hyd.nic.in:8000/
