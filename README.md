@@ -1,4 +1,4 @@
-https://vikramanand.ewebinar.com/webinar/17548/join/8604217
+
 
 -	C# Basics- Classes Delegates Events Generics Access Modifiers , Virtual Keyword, Operators Assemblies parameter types interfaces casting strings Statements and expressions Reference and value types Collection boxing async/await array 
 -	File I/o collections exceptions networking multithreading File I/O
